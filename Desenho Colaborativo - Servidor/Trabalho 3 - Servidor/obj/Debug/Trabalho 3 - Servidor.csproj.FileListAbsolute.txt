@@ -1,0 +1,13 @@
+c:\users\matheus\documents\visual studio 2015\Projects\Trabalho 3 - Servidor\Trabalho 3 - Servidor\bin\Debug\Trabalho 3 - Servidor.exe.config
+c:\users\matheus\documents\visual studio 2015\Projects\Trabalho 3 - Servidor\Trabalho 3 - Servidor\bin\Debug\Trabalho 3 - Servidor.exe
+c:\users\matheus\documents\visual studio 2015\Projects\Trabalho 3 - Servidor\Trabalho 3 - Servidor\bin\Debug\Trabalho 3 - Servidor.pdb
+c:\users\matheus\documents\visual studio 2015\Projects\Trabalho 3 - Servidor\Trabalho 3 - Servidor\obj\Debug\Trabalho_3___Servidor.Properties.Resources.resources
+c:\users\matheus\documents\visual studio 2015\Projects\Trabalho 3 - Servidor\Trabalho 3 - Servidor\obj\Debug\Trabalho_3___Servidor.Servidor.resources
+c:\users\matheus\documents\visual studio 2015\Projects\Trabalho 3 - Servidor\Trabalho 3 - Servidor\obj\Debug\Trabalho 3 - Servidor.csproj.GenerateResource.Cache
+c:\users\matheus\documents\visual studio 2015\Projects\Trabalho 3 - Servidor\Trabalho 3 - Servidor\obj\Debug\Trabalho 3 - Servidor.exe
+c:\users\matheus\documents\visual studio 2015\Projects\Trabalho 3 - Servidor\Trabalho 3 - Servidor\obj\Debug\Trabalho 3 - Servidor.pdb
+c:\users\matheus\documents\visual studio 2015\Projects\Trabalho 3 - Servidor\Trabalho 3 - Servidor\bin\Debug\Pacote.dll
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\Trabalho 3 - Servidor\Trabalho 3 - Servidor\obj\Debug\Trabalho 3 - Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Valeria\Desktop\UTFPR - 5º Período\Interação Humano Computador\Trabalho 3 - Servidor\Trabalho 3 - Servidor\bin\Debug\Trabalho 3 - Servidor.exe.config
+C:\Users\Valeria\Desktop\UTFPR - 5º Período\Interação Humano Computador\Trabalho 3 - Servidor\Trabalho 3 - Servidor\obj\Debug\Trabalho 3 - Servidor.exe
+C:\Users\Valeria\Desktop\UTFPR - 5º Período\Interação Humano Computador\Trabalho 3 - Servidor\Trabalho 3 - Servidor\obj\Debug\Trabalho 3 - Servidor.pdb
